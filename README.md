@@ -1,18 +1,33 @@
-<h1 align="center">Hi 👋, I'm Arjun Patidar</h1>
-<h3 align="center">Full Stack Developer | Backend-Focused | Next.js • NestJS • MongoDB</h3>
+\<h1 align="center">Hi 👋, I'm Arjun Patidar</h1>
+<h3 align="center">
+Full Stack Developer (Backend-Focused) <br/>
+Next.js • ReactJS • NodeJS • NestJS • MongoDB
+</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I’m a **Full Stack Developer with a strong backend focus**, experienced in building **scalable, production-grade applications** using modern JavaScript frameworks and cloud-ready architectures.
+I’m a **Full Stack Developer with a strong backend focus**, experienced in building **scalable, production-grade systems** using modern JavaScript frameworks and clean architectural practices.
 
 - 🔧 Backend developer working extensively with **NestJS & MongoDB**
 - ⚛️ Strong frontend experience with **React & Next.js**
 - 💳 Implemented **secure payment flows using Stripe**
-- 📊 Built **analytics dashboards** from scratch
-- 🧠 Focused on **clean architecture, performance & maintainability**
-- 🚀 Actively improving **system design, DevOps & scalability skills**
+- 🏢 Currently working on **Trichat**, building scalable backend services and real-time features
+- 🧠 Focused on **clean architecture, performance, and maintainability**
+
+---
+
+### 🏢 Current Work — Trichat
+
+**Trichat** is a real-time communication platform where I actively work on backend systems.
+
+My responsibilities include:
+- Designing and developing **NestJS APIs**
+- Writing **scalable MongoDB data models & aggregations**
+- Handling **chat assignment, lead flows, and analytics logic**
+- Improving **performance, reliability, and code structure**
+- Collaborating closely with frontend to ship features end-to-end
 
 ---
 
@@ -34,36 +49,20 @@ I’m a **Full Stack Developer with a strong backend focus**, experienced in bui
 
 ---
 
-### 📌 Featured Projects
+### 🎯 What I Enjoy Working On
 
-#### 🔹 Analytics Dashboard
-- Built a complete analytics system using **Next.js, NestJS & MongoDB**
-- Optimized backend APIs for performance and scalability
-- Implemented clean data modeling & aggregation logic
-
-#### 🔹 Service Checkout & Payment Flow
-- OTP-based user verification
-- **Guest checkout using Stripe**
-- Secure backend APIs with proper validation and error handling
-
-#### 🔹 Lead Management System
-- Advanced lead import strategies (add / update / dedupe)
-- File parsing, validation & tagging logic
-- Designed for high data volume and reliability
-
----
-
-### 📊 GitHub Stats
-
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true)
+- Backend architecture & API design
+- Complex business logic & data handling
+- Performance optimization
+- Building features end-to-end
+- Writing clean, readable, maintainable code
 
 ---
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- 📧 Email: YOUR_EMAIL
-
----
+- 💼 LinkedIn: https://www.linkedin.com/in/arjun-patidar-6556b2226
+- 📧 Email: arjunjagotra2001@gmail.com
 
 ⭐ *I enjoy building scalable systems, solving backend challenges, and writing clean, maintainable code.*
+
