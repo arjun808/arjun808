@@ -1,4 +1,4 @@
-\<h1 align="center">Hi 👋, I'm Arjun Patidar</h1>
+<h1 align="center">Hi 👋, I'm Arjun Patidar</h1>
 <h3 align="center">
 Full Stack Developer (Backend-Focused) <br/>
 Next.js • ReactJS • NodeJS • NestJS • MongoDB
@@ -8,26 +8,27 @@ Next.js • ReactJS • NodeJS • NestJS • MongoDB
 
 ### 🧑‍💻 About Me
 
-I’m a **Full Stack Developer with a strong backend focus**, experienced in building **scalable, production-grade systems** using modern JavaScript frameworks and clean architectural practices.
+I’m a **backend-focused Full Stack Developer** experienced in designing and building **scalable, production-grade systems** with a strong emphasis on **architecture, data integrity, and performance**.
 
-- 🔧 Backend developer working extensively with **NestJS & MongoDB**
-- ⚛️ Strong frontend experience with **React & Next.js**
-- 💳 Implemented **secure payment flows using Stripe**
-- 🏢 Currently working on **Trichat**, building scalable backend services and real-time features
-- 🧠 Focused on **clean architecture, performance, and maintainability**
+- 🔧 Designing and developing backend systems using **NestJS & MongoDB**
+- ⚛️ Strong frontend experience with **React & Next.js**, enabling effective end-to-end ownership
+- 💳 Built and maintained **secure payment flows using Stripe**
+- 🏢 Currently working on **Triochat**, building scalable backend services and real-time features
+- 🧠 Focused on **clean architecture, system reliability, and long-term maintainability**
 
 ---
 
-### 🏢 Current Work — Trichat
+### 🏢 Current Work — Triochat
 
-**Trichat** is a real-time communication platform where I actively work on backend systems.
+**Triochat** is a real-time communication platform where I work primarily on backend systems and core business logic.
 
 My responsibilities include:
-- Designing and developing **NestJS APIs**
-- Writing **scalable MongoDB data models & aggregations**
-- Handling **chat assignment, lead flows, and analytics logic**
-- Improving **performance, reliability, and code structure**
-- Collaborating closely with frontend to ship features end-to-end
+- Designing **modular, maintainable NestJS APIs**
+- Structuring **MongoDB schemas, indexes, and aggregations** for performance at scale
+- Implementing **chat assignment, lead workflows, and analytics pipelines**
+- Handling **edge cases, data consistency, and failure scenarios**
+- Refactoring legacy logic to improve **performance, readability, and extensibility**
+- Collaborating with frontend and product teams to deliver features end-to-end
 
 ---
 
@@ -52,10 +53,10 @@ My responsibilities include:
 ### 🎯 What I Enjoy Working On
 
 - Backend architecture & API design
-- Complex business logic & data handling
-- Performance optimization
-- Building features end-to-end
-- Writing clean, readable, maintainable code
+- Complex business logic and data-heavy workflows
+- Performance optimization & query tuning
+- Designing systems with failure scenarios in mind
+- Writing clean, readable, maintainable, and testable code
 
 ---
 
@@ -64,5 +65,5 @@ My responsibilities include:
 - 💼 LinkedIn: https://www.linkedin.com/in/arjun-patidar-6556b2226
 - 📧 Email: arjunjagotra2001@gmail.com
 
-⭐ *I enjoy building scalable systems, solving backend challenges, and writing clean, maintainable code.*
+⭐ *I enjoy building scalable backend systems, owning critical business logic, and solving complex engineering problems.*
 
