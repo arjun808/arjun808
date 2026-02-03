@@ -6,7 +6,6 @@ Next.js • React • Node.js • NestJS • MongoDB
 </h3>
 
 ---
-
 ### 🧑‍💻 About Me
 
 I’m a backend-first full stack developer passionate about building scalable, resilient, and performance-driven systems. I focus on clean architecture, data integrity, and designing complex business workflows with reliability and failure scenarios in mind.
