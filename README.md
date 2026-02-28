@@ -46,7 +46,7 @@ My responsibilities include:
 - MongoDB — indexing, aggregations & query tuning  
 
 #### Tools & Platforms
-- Docker • Git • Stripe • WebSockets • Analytics  
+- Docker • Git • Stripe • WebSockets • Analytics  • Lambda • SQS   
 
 ---
 
