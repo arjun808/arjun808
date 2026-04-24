@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I’m Arjun Patidar</h1>
 
 <h3 align="center">
 Full Stack Developer (Backend-Focused) <br/>
@@ -13,14 +12,14 @@ I’m a backend-first full stack developer passionate about building scalable, r
 - 🔧 Building robust backend systems using NestJS & MongoDB  
 - ⚛️ Strong frontend experience with React & Next.js enabling end-to-end ownership  
 - 💳 Implemented secure payment flows using Stripe for subscriptions & checkout  
-- 🚀 Core contributor to Triochat — real-time features & analytics pipelines  
+- 🚀 Core contributor to duochat — real-time features & analytics pipelines  
 - 🧠 Focused on maintainable code, domain modeling & performance optimization  
 
 ---
 
-### 🏢 Current Work — Triochat
+### 🏢 Current Work — duochat
 
-At Triochat, a real-time communication and customer engagement platform, I work primarily on backend systems and core business logic powering live chat operations.
+At duochat, a real-time communication and customer engagement platform, I work primarily on backend systems and core business logic powering live chat operations.
 
 My responsibilities include:
 
