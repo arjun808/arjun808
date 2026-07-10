@@ -154,21 +154,6 @@ I care deeply about **system correctness under failure** — idempotency, at-lea
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arjun808&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun808&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=arjun808&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
