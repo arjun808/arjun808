@@ -59,7 +59,7 @@ I care deeply about **system correctness under failure** — idempotency, at-lea
 - Performed **systematic query profiling** via `explain()` and slow query logs — achieving meaningful P95 latency reductions in production
 
 ### 🔌 Real-Time Infrastructure — WebSockets at Scale
-- Designed **WebSocket gateway** in NestJS with room-based namespacing for multi-tenant chat isolation
+- Designed *WebSocket gateway* in NestJS with room-based namespacing for multi-tenant chat isolation
 - Built **Kafka-backed fan-out** — socket events emitted from a Kafka consumer, not the originating service, enabling horizontal scaling
 - Implemented **presence tracking** with Redis TTL keys and heartbeat intervals for accurate agent online/offline state
 - Handled **socket reconnection logic** with event buffering and replay windows to prevent message loss on disconnect
