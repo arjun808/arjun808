@@ -17,7 +17,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm a **backend-first full stack engineer** with **3+ years** of experience designing and shipping production-grade, distributed systems. I specialize in **event-driven architecture**, **serverless infrastructure**, and **high-throughput data pipelines** — while retaining enough frontend depth to ship features end-to-end without handoffs.
 
