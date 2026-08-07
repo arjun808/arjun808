@@ -25,7 +25,7 @@ I care deeply about **system correctness under failure** — idempotency, at-lea
 
 ```text
 ⚙️  Architecture   →   Event-driven · Distributed · Serverless · Domain-Driven
-📐  Philosophy     →   Design for failure first. Optimize for scale second.
+  Philosophy     →   Design for failure first. Optimize for scale second.
 🔭  Currently      →   Owning backend systems & core business logic at duochat
 🌍  Open To        →   Backend / Full Stack roles in product-driven teams
 ```
