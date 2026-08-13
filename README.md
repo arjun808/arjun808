@@ -11,7 +11,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Distributed+Systems;Event-Driven+Architecture+%7C+Kafka+%7C+SQS;AWS+Serverless+%7C+NestJS+%7C+MongoDB;Building+for+Scale%2C+Resilience%2C+and+Clarity" alt="Typing SVG" />
 
 </div>
 
