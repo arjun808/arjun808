@@ -18,7 +18,7 @@
 
 ##  About Me
 
-I'm a **backend-first full stack engineer** with **3+ years** of experience designing and shipping production-grade, distributed systems. I specialize in **event-driven architecture**, **serverless infrastructure**, and **high-throughput data pipelines** — while retaining enough frontend depth to ship features end-to-end without handoffs.
+I'm a **backend-first full stack engineer** with **3+ years** of experience designing and shipping production-grade, distributed systems.Specialize in **event-driven architecture**, **serverless infrastructure**, and **high-throughput data pipelines** — while retaining enough frontend depth to ship features end-to-end without handoffs.
 
 I care deeply about **system correctness under failure** — idempotency, at-least-once delivery guarantees, race condition safety, and dead-letter queue handling are not afterthoughts in my systems; they're first-class design constraints.
 
