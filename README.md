@@ -4,10 +4,26 @@
 
 <br/>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Backend+%26+AI+Engineer;Building+LLM-powered+applications;RAG+%7C+AI+Agents+%7C+Distributed+Systems;Node.js+%7C+NestJS+%7C+AWS" alt="Typing SVG" /></a>
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-patidar-6556b2226)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunjagotra2001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjun808)
 [![Profile Views](https://komarev.com/ghpvc/?username=arjun808&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/arjun808)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ A little about what I build
+
+<img src="https://img.shields.io/badge/🤖_AI_Engineering-RAG_%7C_LLMs_%7C_Agents-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚙️_Backend-Distributed_Systems-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/☁️_Cloud-AWS_%7C_Serverless-f59e0b?style=for-the-badge" />
 
 </div>
 
@@ -191,6 +207,33 @@ As a founding engineer, I worked across backend architecture, core product featu
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/arjun808">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arjun808&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Arjun's GitHub stats" />
+</a>
+<a href="https://github.com/arjun808">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=arjun808&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</a>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=arjun808&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arjun808&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub trophies" />
+
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
@@ -202,6 +245,8 @@ As a founding engineer, I worked across backend architecture, core product featu
 | 🐙 GitHub | [github.com/arjun808](https://github.com/arjun808) |
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+impactful+together." alt="Footer typing animation" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 
